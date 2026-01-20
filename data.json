@@ -1,0 +1,1583 @@
+{
+    "Balzay": {
+        "Aulario1": {
+            "0": {
+                "Puntos": {
+                    "BALZAY-AU1-PB-155": {
+                        "status": "up",
+                        "referencia": "ENTRADA AL EDIFICIO",
+                        "coordenadas": {
+                            "lat": -2.8917544533200106,
+                            "lon": -79.03696596643344,
+                            "alt": 3
+                        }
+                    },
+                    "BALZAY-AU1-PB-120": {
+                        "status": "up",
+                        "referencia": "Aula B102",
+                        "coordenadas": {
+                            "lat": -2.8916552943908056,
+                            "lon": -79.03711426640069,
+                            "alt": 3
+                        }
+                    },
+                    "BALZAY-AU1-PB-154": {
+                        "status": "up",
+                        "referencia": "Aula CERCA DE LA ENTRADA DEL EDIFICIO",
+                        "coordenadas": {
+                            "lat": -2.891788810158605,
+                            "lon": -79.03710323010992,
+                            "alt": 3
+                        }
+                    },
+                    "BALZAY-AU1-PB-119": {
+                        "status": "up",
+                        "referencia": "SALA DE ESTUDIANTES",
+                        "coordenadas": {
+                            "lat": -2.891763569173777,
+                            "lon": -79.03722677162683,
+                            "alt": 3
+                        }
+                    },
+                    "BALZAY-AU1-PB-121": {
+                        "status": "up",
+                        "referencia": "COMEDOR",
+                        "coordenadas": {
+                            "lat": -2.891634152569431,
+                            "lon": -79.03720135247526,
+                            "alt": 3
+                        }
+                    },
+                    "BALZAY-AU1-PB-153": {
+                        "status": "up",
+                        "referencia": "Pasillo PB",
+                        "coordenadas": {
+                            "lat": -2.891676043390491,
+                            "lon": -79.03733768518039,
+                            "alt": 3
+                        }
+                    }
+                }
+            },
+            "1": {
+                "Puntos": {
+                    "BALZAY-AU1-P1-110": {
+                        "status": "up",
+                        "referencia": "Aula B206",
+                        "coordenadas": {
+                            "lat": -2.891691778835497,
+                            "lon": -79.03691301847759,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-AU1-P1-144": {
+                        "status": "up",
+                        "referencia": "Aula B211",
+                        "coordenadas": {
+                            "lat": -2.8916793301788686,
+                            "lon": -79.03697042186357,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-AU1-P1-114": {
+                        "status": "up",
+                        "referencia": "Pasillo planta 1 cerca de gradas",
+                        "coordenadas": {
+                            "lat": -2.8917425805365133,
+                            "lon": -79.03702634398701,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-AU1-P1-115": {
+                        "status": "up",
+                        "referencia": "pasillo planta 1 cerca de gradas ascendentes",
+                        "coordenadas": {
+                            "lat": -2.8917084046971726,
+                            "lon": -79.03721027931972,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-AU1-P1-109": {
+                        "status": "up",
+                        "referencia": "cerca del baño planta 1",
+                        "coordenadas": {
+                            "lat": -2.8916568892741066,
+                            "lon": -79.03740137111375,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-AU1-P1-126": {
+                        "status": "up",
+                        "referencia": "gradas laterales planta 1",
+                        "coordenadas": {
+                            "lat": -2.8915856750387894,
+                            "lon": -79.03736435739617,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-AU1-P1-111": {
+                        "status": "up",
+                        "referencia": "Aula B201",
+                        "coordenadas": {
+                            "lat": -2.8916067918141684,
+                            "lon": -79.03728859884697,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-AU1-P1-124": {
+                        "status": "up",
+                        "referencia": "Aula B202",
+                        "coordenadas": {
+                            "lat": -2.8916179199664915,
+                            "lon": -79.03722969635189,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-AU1-P1-108": {
+                        "status": "up",
+                        "referencia": "Aula B203",
+                        "coordenadas": {
+                            "lat": -2.891632480091519,
+                            "lon": -79.0371628699944,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-AU1-P1-125": {
+                        "status": "up",
+                        "referencia": "Aula B204",
+                        "coordenadas": {
+                            "lat": -2.891645632570947,
+                            "lon": -79.03710232561792,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-AU1-P1-117": {
+                        "status": "up",
+                        "referencia": "Aula B207",
+                        "coordenadas": {
+                            "lat": -2.8917547174364504,
+                            "lon": -79.03732515747784,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-AU1-P1-116": {
+                        "status": "up",
+                        "referencia": "Aula B208",
+                        "coordenadas": {
+                            "lat": -2.891765140511139,
+                            "lon": -79.03725831327382,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-AU1-P1-118": {
+                        "status": "up",
+                        "referencia": "Aula B209",
+                        "coordenadas": {
+                            "lat": -2.8917815498441284,
+                            "lon": -79.03719801874885,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-AU1-P1-158": {
+                        "status": "up",
+                        "referencia": "Aula B210",
+                        "coordenadas": {
+                            "lat": -2.8918017839130603,
+                            "lon": -79.03710032680578,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-AU1-P1-123": {
+                        "status": "up",
+                        "referencia": "Aula B205",
+                        "coordenadas": {
+                            "lat": -2.8918237345957616,
+                            "lon": -79.03700421428123,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-AU1-P1-122": {
+                        "status": "up",
+                        "referencia": "Aula B212",
+                        "coordenadas": {
+                            "lat": -2.891841684168542,
+                            "lon": -79.03694259018926,
+                            "alt": 6
+                        }
+                    }
+                }
+            },
+            "2": {
+                "Puntos": {
+                    "BALZAY-AU1-P2-131": {
+                        "status": "up",
+                        "referencia": "pasillo cerca de sala",
+                        "coordenadas": {
+                            "lat": -2.891741241412353,
+                            "lon": -79.03702221771192,
+                            "alt": 9
+                        }
+                    },
+                    "BALZAY-AU1-P2-143": {
+                        "status": "up",
+                        "referencia": "Pasillo cerca de gradas ascendentes",
+                        "coordenadas": {
+                            "lat": -2.891703665388832,
+                            "lon": -79.03721159248873,
+                            "alt": 9
+                        }
+                    },
+                    "BALZAY-AU1-P2-132": {
+                        "status": "up",
+                        "referencia": "Cerca del baño",
+                        "coordenadas": {
+                            "lat": -2.89166040785481,
+                            "lon": -79.03739741300933,
+                            "alt": 9
+                        }
+                    },
+                    "BALZAY-AU1-P2-152": {
+                        "status": "up",
+                        "referencia": "Gradas laterales piso 2",
+                        "coordenadas": {
+                            "lat": -2.8915882314938357,
+                            "lon": -79.03735995719927,
+                            "alt": 9
+                        }
+                    },
+                    "BALZAY-AU1-P2-146": {
+                        "status": "up",
+                        "referencia": "Aula B301",
+                        "coordenadas": {
+                            "lat": -2.891602475406566,
+                            "lon": -79.03729277638801,
+                            "alt": 9
+                        }
+                    },
+                    "BALZAY-AU1-P2-140": {
+                        "status": "up",
+                        "referencia": "Aula B302",
+                        "coordenadas": {
+                            "lat": -2.8916223128345924,
+                            "lon": -79.03722592885174,
+                            "alt": 9
+                        }
+                    },
+                    "BALZAY-AU1-P2-150": {
+                        "status": "up",
+                        "referencia": "Aula B303",
+                        "coordenadas": {
+                            "lat": -2.8916384974822877,
+                            "lon": -79.03716634858213,
+                            "alt": 9
+                        }
+                    },
+                    "BALZAY-AU1-P2-135": {
+                        "status": "up",
+                        "referencia": "Aula B304",
+                        "coordenadas": {
+                            "lat": -2.891645818760396,
+                            "lon": -79.03710657287444,
+                            "alt": 9
+                        }
+                    },
+                    "BALZAY-AU1-P2-145": {
+                        "status": "up",
+                        "referencia": "Aula B305",
+                        "coordenadas": {
+                            "lat": -2.891677063696696,
+                            "lon": -79.03697797534724,
+                            "alt": 9
+                        }
+                    },
+                    "BALZAY-AU1-P2-142": {
+                        "status": "up",
+                        "referencia": "Aula B306",
+                        "coordenadas": {
+                            "lat": -2.8916896748576777,
+                            "lon": -79.03691446742864,
+                            "alt": 9
+                        }
+                    },
+                    "BALZAY-AU1-P2-130": {
+                        "status": "up",
+                        "referencia": "Aula B312",
+                        "coordenadas": {
+                            "lat": -2.891835121483163,
+                            "lon": -79.03694836039755,
+                            "alt": 9
+                        }
+                    },
+                    "BALZAY-AU1-P2-128": {
+                        "status": "up",
+                        "referencia": "Aula B311",
+                        "coordenadas": {
+                            "lat": -2.891825390724241,
+                            "lon": -79.0370080479864,
+                            "alt": 9
+                        }
+                    },
+                    "BALZAY-AU1-P2-157": {
+                        "status": "up",
+                        "referencia": "Aula B310",
+                        "coordenadas": {
+                            "lat": -2.8917999353618855,
+                            "lon": -79.03710538752514,
+                            "alt": 9
+                        }
+                    },
+                    "BALZAY-AU1-P2-137": {
+                        "status": "up",
+                        "referencia": "Aula B309",
+                        "coordenadas": {
+                            "lat": -2.8917816644443697,
+                            "lon": -79.03720138092982,
+                            "alt": 9
+                        }
+                    },
+                    "BALZAY-AU1-P2-148": {
+                        "status": "up",
+                        "referencia": "Aula B308",
+                        "coordenadas": {
+                            "lat": -2.89176565143629,
+                            "lon": -79.03726019521342,
+                            "alt": 9
+                        }
+                    },
+                    "BALZAY-AU1-P2-151": {
+                        "status": "up",
+                        "referencia": "Aula B307",
+                        "coordenadas": {
+                            "lat": -2.8917570406856656,
+                            "lon": -79.03732211184182,
+                            "alt": 9
+                        }
+                    }
+                }
+            },
+            "3": {
+                "Puntos": {
+                    "BALZAY-AU1-P3-134": {
+                        "status": "up",
+                        "referencia": "Aula B408",
+                        "coordenadas": {
+                            "lat": -2.891791356811583,
+                            "lon": -79.03706870159778,
+                            "alt": 12
+                        }
+                    },
+                    "BALZAY-AU1-P3-139": {
+                        "status": "up",
+                        "referencia": "Aula B407",
+                        "coordenadas": {
+                            "lat": -2.8917723167702136,
+                            "lon": -79.0371319159536,
+                            "alt": 12
+                        }
+                    },
+                    "BALZAY-AU1-P3-156": {
+                        "status": "up",
+                        "referencia": "Aula B406",
+                        "coordenadas": {
+                            "lat": -2.891752167206342,
+                            "lon": -79.03722365163244,
+                            "alt": 12
+                        }
+                    },
+                    "BALZAY-AU1-P3-133": {
+                        "status": "up",
+                        "referencia": "Aula B404",
+                        "coordenadas": {
+                            "lat": -2.8916574986382537,
+                            "lon": -79.03710584231601,
+                            "alt": 12
+                        }
+                    },
+                    "BALZAY-AU1-P3-136": {
+                        "status": "up",
+                        "referencia": "Aula B403",
+                        "coordenadas": {
+                            "lat": -2.891643720946633,
+                            "lon": -79.037167328813,
+                            "alt": 12
+                        }
+                    },
+                    "BALZAY-AU1-P3-141": {
+                        "status": "up",
+                        "referencia": "Aula B402",
+                        "coordenadas": {
+                            "lat": -2.8916299825236607,
+                            "lon": -79.03722682700253,
+                            "alt": 12
+                        }
+                    },
+                    "BALZAY-AU1-P3-138": {
+                        "status": "up",
+                        "referencia": "Aula B401",
+                        "coordenadas": {
+                            "lat": -2.891617035397489,
+                            "lon": -79.03729367219236,
+                            "alt": 12
+                        }
+                    },
+                    "BALZAY-AU1-P3-149": {
+                        "status": "up",
+                        "referencia": "Cerca de gradas laterales piso 3",
+                        "coordenadas": {
+                            "lat": -2.8916005122442616,
+                            "lon": -79.0373637848968,
+                            "alt": 12
+                        }
+                    }
+                }
+            }
+        },
+        "Aulario2": {
+            "0": {
+                "Puntos": {
+                    "CBAL-AUL2-SUB-1024-C2": {
+                        "status": "up",
+                        "referencia": "Lab. Automatización Industrial",
+                        "coordenadas": {
+                            "lat": -2.891464675886569,
+                            "lon": -79.03791799431404,
+                            "alt": 3
+                        }
+                    },
+                    "CBAL-AUL2-SUB-1022-C2": {
+                        "status": "up",
+                        "referencia": "Lab. Telecomunicaciones",
+                        "coordenadas": {
+                            "lat": -2.890998153583485,
+                            "lon": -79.03780600924452,
+                            "alt": 3
+                        }
+                    },
+                    "CBAL-AUL2-SUB-1023-C2": {
+                        "status": "up",
+                        "referencia": "Pasillo cerca de las ASOS.",
+                        "coordenadas": {
+                            "lat": -2.8912982015937536,
+                            "lon": -79.03775868810209,
+                            "alt": 3
+                        }
+                    },
+                    "CBAL-AUL2-SUB-1021-C2": {
+                        "status": "up",
+                        "referencia": "AULA A LA IZQ DE ASO COMPUTACION",
+                        "coordenadas": {
+                            "lat": -2.8915200051229766,
+                            "lon": -79.03778703935059,
+                            "alt": 3
+                        }
+                    },
+                    "CBAL-AUL2-SUB-1036-C2": {
+                        "status": "up",
+                        "referencia": "ASO AMBIENTAL",
+                        "coordenadas": {
+                            "lat": -2.891023384698487,
+                            "lon": -79.03766723322373,
+                            "alt": 3
+                        }
+                    },
+                    "CBAL-AUL2-SUB-1040-C2": {
+                        "status": "up",
+                        "referencia": "Sala de estudio",
+                        "coordenadas": {
+                            "lat": -2.8915062311286612,
+                            "lon": -79.03775027585947,
+                            "alt": 3
+                        }
+                    }
+                }
+            },
+            "1": {
+                "Puntos": {
+                    "BALZAY-AU2-PB-063": {
+                        "status": "up",
+                        "referencia": "AULA C103",
+                        "coordenadas": {
+                            "lat": -2.891089678525038,
+                            "lon": -79.03774480035375,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-AU2-PB-064": {
+                        "status": "up",
+                        "referencia": "Aula C104",
+                        "coordenadas": {
+                            "lat": -2.89109606951586,
+                            "lon": -79.03773375197306,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-AU2-PB-060": {
+                        "status": "up",
+                        "referencia": "Aula C105",
+                        "coordenadas": {
+                            "lat": -2.8911394292714756,
+                            "lon": -79.03772832815568,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-AU2-PB-066": {
+                        "status": "up",
+                        "referencia": "Aula C106",
+                        "coordenadas": {
+                            "lat": -2.891148132576005,
+                            "lon": -79.03771532013785,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-AU2-PB-061": {
+                        "status": "up",
+                        "referencia": "Aula C107",
+                        "coordenadas": {
+                            "lat": -2.8911500347434105,
+                            "lon": -79.03770026997735,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-AU2-PB-065": {
+                        "status": "up",
+                        "referencia": "Aula C108",
+                        "coordenadas": {
+                            "lat": -2.8911499034965935,
+                            "lon": -79.03768605380564,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-AU2-PB-062": {
+                        "status": "up",
+                        "referencia": "LAB REDES Y DTIC",
+                        "coordenadas": {
+                            "lat": -2.8911581228284864,
+                            "lon": -79.03766762617452,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-AU2-PB-067": {
+                        "status": "up",
+                        "referencia": "Pasillo de la planta baja",
+                        "coordenadas": {
+                            "lat": -2.891488360782221,
+                            "lon": -79.03778724391888,
+                            "alt": 6
+                        }
+                    }
+                }
+            },
+            "2": {
+                "Puntos": {
+                    "BALZAY-AU2-PA-070": {
+                        "status": "up",
+                        "referencia": "AULA C101 AUDITORIO1",
+                        "coordenadas": {
+                            "lat": -2.8911887552591358,
+                            "lon": -44.21091351087016,
+                            "alt": 9
+                        }
+                    },
+                    "BALZAY-AU2-PA-072": {
+                        "status": "up",
+                        "referencia": "AULA C102 AUDITORIO2",
+                        "coordenadas": {
+                            "lat": -2.8911644127341516,
+                            "lon": -51.1074210713256,
+                            "alt": 9
+                        }
+                    },
+                    "BALZAY-AU2-PA-071": {
+                        "status": "up",
+                        "referencia": "PASILLO BLOQUE C",
+                        "coordenadas": {
+                            "lat": -2.891173185234786,
+                            "lon": -61.10824922765724,
+                            "alt": 9
+                        }
+                    },
+                    "BALZAY-AU2-PA-069": {
+                        "status": "up",
+                        "referencia": "PASILLO PA",
+                        "coordenadas": {
+                            "lat": -2.8915086512989667,
+                            "lon": -106.21989964935612,
+                            "alt": 9
+                        }
+                    },
+                    "BALZAY-AU2-PA-068": {
+                        "status": "up",
+                        "referencia": "GRADAS DE ARRIBA BLOQUE C",
+                        "coordenadas": {
+                            "lat": -2.891499818152434,
+                            "lon": -127.56967280161282,
+                            "alt": 9
+                        }
+                    },
+                    "BALZAY-AU2-PA-159": {
+                        "status": "up",
+                        "referencia": "AULA C202",
+                        "coordenadas": {
+                            "lat": -2.8911757025409357,
+                            "lon": -80.44872290300421,
+                            "alt": 9
+                        }
+                    },
+                    "BALZAY-AU2-PA-113": {
+                        "status": "up",
+                        "referencia": "AULA CERCA DEL LAB ING INDUSTRIAL",
+                        "coordenadas": {
+                            "lat": -2.8911939059514604,
+                            "lon": -90.91832313221995,
+                            "alt": 9
+                        }
+                    },
+                    "BALZAY-AU2-PA-059": {
+                        "status": "up",
+                        "referencia": "LAB ING INDUSTRIAL",
+                        "coordenadas": {
+                            "lat": -2.8911967111026335,
+                            "lon": -100.19362464832989,
+                            "alt": 9
+                        }
+                    }
+                }
+            }
+        },
+        "EAdmin": {
+            "0": {
+                "Puntos": {
+                    "BALZAY-EADM-PB-104": {
+                        "status": "up",
+                        "referencia": "ENTRADA PLANTA BAJA",
+                        "coordenadas": {
+                            "lat": -2.890975873141555,
+                            "lon": -79.03519058123287,
+                            "alt": 3
+                        }
+                    },
+                    "BALZAY-EADM-PB-107": {
+                        "status": "up",
+                        "referencia": "Grupo Investigación GESTION DEL CONOCIMIENTO",
+                        "coordenadas": {
+                            "lat": -2.8910485748978134,
+                            "lon": -79.03516630298307,
+                            "alt": 3
+                        }
+                    },
+                    "BALZAY-EADM-PB-163": {
+                        "status": "up",
+                        "referencia": "Oficina DOCENTES INVESTIGADORES PARTE IZQUIERDA",
+                        "coordenadas": {
+                            "lat": -2.891031143437261,
+                            "lon": -79.03523006538722,
+                            "alt": 3
+                        }
+                    },
+                    "BALZAY-EADM-PB-105": {
+                        "status": "up",
+                        "referencia": "Oficina AYUDANTES DE INVESTIGACION",
+                        "coordenadas": {
+                            "lat": -2.891013526099069,
+                            "lon": -79.03530413600377,
+                            "alt": 3
+                        }
+                    },
+                    "BALZAY-EADM-PB-106": {
+                        "status": "up",
+                        "referencia": "Grupo Investigación INFRAESTRUCTURA DATOS ESPACIALES",
+                        "coordenadas": {
+                            "lat": -2.890927991310262,
+                            "lon": -79.03525775904686,
+                            "alt": 3
+                        }
+                    },
+                    "BALZAY-EADM-PB-162": {
+                        "status": "up",
+                        "referencia": "Grupo Investigación INGENIERIA DE SOFTWARE",
+                        "coordenadas": {
+                            "lat": -2.8909197811103016,
+                            "lon": -79.03529871193075,
+                            "alt": 3
+                        }
+                    },
+                    "BALZAY-EADM-PB-165": {
+                        "status": "up",
+                        "referencia": "Grupo Investigación MODELADO, ANALISIS Y SIMULACION",
+                        "coordenadas": {
+                            "lat": -2.8909095004182426,
+                            "lon": -79.03533389073722,
+                            "alt": 3
+                        }
+                    },
+                    "BALZAY-EADM-PB-166": {
+                        "status": "up",
+                        "referencia": "Grupo Investigación INNOVACION TECNOLOGICA GIT",
+                        "coordenadas": {
+                            "lat": -2.8909038266247102,
+                            "lon": -79.03536714845266,
+                            "alt": 3
+                        }
+                    },
+                    "BALZAY-EADM-PB-167": {
+                        "status": "up",
+                        "referencia": "Oficina DOCENTES INVESTIGADORES PARTE DERECHA",
+                        "coordenadas": {
+                            "lat": -2.89089080384059,
+                            "lon": -79.03540906017612,
+                            "alt": 3
+                        }
+                    }
+                }
+            },
+            "1": {
+                "Puntos": {
+                    "BALZAY-EADM-PA-177": {
+                        "status": "up",
+                        "referencia": "SALA DE SESIONES (final de pasillo desde GRADAS PA hacia la derecha )",
+                        "coordenadas": {
+                            "lat": -2.8911219834397053,
+                            "lon": -79.03554950470057,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-EADM-PA-199": {
+                        "status": "up",
+                        "referencia": "Oficina FACULTAD DE INGENIERIA",
+                        "coordenadas": {
+                            "lat": -2.8911957922790776,
+                            "lon": -79.0355569050096,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-EADM-PA-198": {
+                        "status": "up",
+                        "referencia": "ASISTENTE DE GESTION DE FACULTAD",
+                        "coordenadas": {
+                            "lat": -2.891193345026121,
+                            "lon": -79.0355467365173,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-EADM-PA-164": {
+                        "status": "up",
+                        "referencia": "Oficina 2  FACULTAD DE CIENCIAS QUIMICAS  (lado izquierdo de Oficina 1)",
+                        "coordenadas": {
+                            "lat": -2.891202360743454,
+                            "lon": -79.03553903628405,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-EADM-PA-187": {
+                        "status": "up",
+                        "referencia": "Oficinas1 FACULTAD DE CIENCIAS QUIMICAS (lado derecho de GRADAS PA)",
+                        "coordenadas": {
+                            "lat": -2.8911808654824847,
+                            "lon": -79.0355243666385,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-EADM-PA-101": {
+                        "status": "up",
+                        "referencia": "GRADAS PA",
+                        "coordenadas": {
+                            "lat": -2.8913423079707696,
+                            "lon": -79.03555238509014,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-EADM-PA-197": {
+                        "status": "up",
+                        "referencia": "SALA POLIVALENTE",
+                        "coordenadas": {
+                            "lat": -2.891042549506777,
+                            "lon": -79.03547310266339,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-EADM-PA-193": {
+                        "status": "up",
+                        "referencia": "Oficina 1 DEPARTAMENTO DE ING ELECTRICA ELECTRONICA Y TELECOMUNICACIONES",
+                        "coordenadas": {
+                            "lat": -2.8910324745092444,
+                            "lon": -79.03546119181802,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-EADM-PA-194": {
+                        "status": "up",
+                        "referencia": "Oficina 2 DEPARTAMENTO DE ING ELECTRICA ELECTRONICA Y TELECOMUNICACIONES",
+                        "coordenadas": {
+                            "lat": -2.8910418105279834,
+                            "lon": -79.03545131252639,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-EADM-PA-192": {
+                        "status": "up",
+                        "referencia": "Oficina a la derecha de \"PROFESORES DE QUIMICA\"",
+                        "coordenadas": {
+                            "lat": -2.8910365316603825,
+                            "lon": -79.03543359041186,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-EADM-PA-190": {
+                        "status": "up",
+                        "referencia": "UNIDAD JURIDICA DE CIENCIAS QUIMICAS (Oficina final PA Izquierda)",
+                        "coordenadas": {
+                            "lat": -2.8917708328574605,
+                            "lon": -79.03569426348922,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-EADM-PA-189": {
+                        "status": "up",
+                        "referencia": "Area Cubículos, al lado de UNIDAD JURIDICA DE CIENCIAS QUIMICAS",
+                        "coordenadas": {
+                            "lat": -2.8917620177121233,
+                            "lon": -79.03567378168087,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-EADM-PA-188": {
+                        "status": "up",
+                        "referencia": "Area de ACREDITACION CIENCIAS QUIMICAS",
+                        "coordenadas": {
+                            "lat": -2.891727509071842,
+                            "lon": -79.0356403739205,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-EADM-PA-195": {
+                        "status": "up",
+                        "referencia": "AULA TALLER",
+                        "coordenadas": {
+                            "lat": -2.89176473798851,
+                            "lon": -79.03562845771334,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-EADM-PA-196": {
+                        "status": "up",
+                        "referencia": "Oficina 3 DEPARTAMENTO DE ING ELECTRICA ELECTRONICA Y TELECOMUNICACIONES",
+                        "coordenadas": {
+                            "lat": -2.8917509345323977,
+                            "lon": -79.0356150946092,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-EADM-PA-200": {
+                        "status": "up",
+                        "referencia": "Oficina 4 DEPARTAMENTO DE ING ELECTRICA ELECTRONICA Y TELECOMUNICACIONES",
+                        "coordenadas": {
+                            "lat": -2.891756072317162,
+                            "lon": -79.03560695901109,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-EADM-PA-191": {
+                        "status": "up",
+                        "referencia": "PASILLO OFICINAS DE PROFESORES ING QUIMICA Y ELECTRICA",
+                        "coordenadas": {
+                            "lat": -2.8914503859916048,
+                            "lon": -79.03554118719312,
+                            "alt": 6
+                        }
+                    },
+                    "AP-356-Hall_Auditorio-EA": {
+                        "status": "up",
+                        "referencia": "Auditorio parte de afuera",
+                        "coordenadas": {
+                            "lat": -2.8913830258871984,
+                            "lon": -79.03548991517535,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-EADM-PA-100": {
+                        "status": "up",
+                        "referencia": "salon auditorio 1",
+                        "coordenadas": {
+                            "lat": -2.8912606060034536,
+                            "lon": -79.03543777778962,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-EADM-PA-102": {
+                        "status": "up",
+                        "referencia": "salon auditorio 2",
+                        "coordenadas": {
+                            "lat": -2.8916305516153744,
+                            "lon": -79.03552228191383,
+                            "alt": 6
+                        }
+                    },
+                    "AP-385-Auditorio-EA": {
+                        "status": "up",
+                        "referencia": "Auditorio parte de atras",
+                        "coordenadas": {
+                            "lat": -2.891434365599111,
+                            "lon": -79.03546245367797,
+                            "alt": 6
+                        }
+                    },
+                    "AP-390-Auditorio-EA": {
+                        "status": "up",
+                        "referencia": "Auditorio parte adelante",
+                        "coordenadas": {
+                            "lat": -2.891414578612305,
+                            "lon": -79.03543616238771,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-EADM-PA-201": {
+                        "status": "up",
+                        "referencia": "Bodega",
+                        "coordenadas": {
+                            "lat": -2.891619874150763,
+                            "lon": -79.03546083470154,
+                            "alt": 6
+                        }
+                    }
+                }
+            }
+        },
+        "CENTRO TECNOLOGICO B3": {
+            "0": {
+                "Puntos": {
+                    "BALZAY-CTB3-SUB-050": {
+                        "status": "up",
+                        "referencia": "Cerca de las gradas",
+                        "coordenadas": {
+                            "lat": -2.8922840472941704,
+                            "lon": -79.03591946561626,
+                            "alt": 3
+                        }
+                    },
+                    "BALZAY-CTB3-SUB-051": {
+                        "status": "up",
+                        "referencia": "LAB QUIMICA APLICADA",
+                        "coordenadas": {
+                            "lat": -2.8923447085110174,
+                            "lon": -79.03596380191485,
+                            "alt": 3
+                        }
+                    },
+                    "BALZAY-CTB3-SUB-052": {
+                        "status": "up",
+                        "referencia": "LAB BIOTECNOLOGIA",
+                        "coordenadas": {
+                            "lat": -2.8923651113369244,
+                            "lon": -79.03590936844473,
+                            "alt": 3
+                        }
+                    }
+                }
+            },
+            "1": {
+                "Puntos": {
+                    "BALZAY-CTB3-PB-039": {
+                        "status": "up",
+                        "referencia": "ENTRADA DEL DPTO DE QUIMICA APLICADA Y SISTEMAS DE PRODUCCION",
+                        "coordenadas": {
+                            "lat": -2.8922748609988322,
+                            "lon": -79.03584667255893,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-CTB3-PB-038": {
+                        "status": "up",
+                        "referencia": "GRADAS PB",
+                        "coordenadas": {
+                            "lat": -2.892293257376802,
+                            "lon": -79.03590921738144,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-CTB3-PB-040": {
+                        "status": "up",
+                        "referencia": "GRUPO CATOx-CEA",
+                        "coordenadas": {
+                            "lat": -2.8923499659898395,
+                            "lon": -79.03596306121487,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-CTB3-PB-041": {
+                        "status": "up",
+                        "referencia": "SALA DE REUNIONES",
+                        "coordenadas": {
+                            "lat": -2.8923793866928103,
+                            "lon": -79.03589782518688,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-CTB3-PB-042": {
+                        "status": "up",
+                        "referencia": "GRUPO TECNOCEA-H20",
+                        "coordenadas": {
+                            "lat": -2.892438051389417,
+                            "lon": -79.03597585375421,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-CTB3-PB-043": {
+                        "status": "up",
+                        "referencia": "GRUPO DE ING INDUSTRIAL E INNOVACION-GI3",
+                        "coordenadas": {
+                            "lat": -2.8924547405367074,
+                            "lon": -79.03591838898132,
+                            "alt": 6
+                        }
+                    }
+                }
+            },
+            "2": {
+                "Puntos": {
+                    "BALZAY-CTB3-PA-045": {
+                        "status": "up",
+                        "referencia": "ESQUINA DETRAS DE GRADAS",
+                        "coordenadas": {
+                            "lat": -2.892258093081338,
+                            "lon": -79.03584354751915,
+                            "alt": 9
+                        }
+                    },
+                    "BALZAY-CTB3-PA-044": {
+                        "status": "up",
+                        "referencia": "FRENTE A GRADAS PA",
+                        "coordenadas": {
+                            "lat": -2.8922926839395564,
+                            "lon": -79.03590997533793,
+                            "alt": 9
+                        }
+                    },
+                    "BALZAY-CTB3-PA-047": {
+                        "status": "up",
+                        "referencia": "OFICINA INVESTIGADORES 4",
+                        "coordenadas": {
+                            "lat": -2.8923712591238004,
+                            "lon": -79.03590022941071,
+                            "alt": 9
+                        }
+                    },
+                    "BALZAY-CTB3-PA-046": {
+                        "status": "up",
+                        "referencia": "GRUPO DE ENERGIA-BIOMASA-BIOENERGIA",
+                        "coordenadas": {
+                            "lat": -2.8923586524720886,
+                            "lon": -79.03595604544799,
+                            "alt": 9
+                        }
+                    },
+                    "BALZAY-CTB3-PA-049": {
+                        "status": "up",
+                        "referencia": "TRAIL-LAB-5.0",
+                        "coordenadas": {
+                            "lat": -2.892457267497887,
+                            "lon": -79.0359234975266,
+                            "alt": 9
+                        }
+                    },
+                    "BALZAY-CTB3-PA-048": {
+                        "status": "up",
+                        "referencia": "GRUPO RISKEN",
+                        "coordenadas": {
+                            "lat": -2.892442814667282,
+                            "lon": -79.03597847892415,
+                            "alt": 9
+                        }
+                    }
+                }
+            }
+        },
+        "CENTRO TECNOLOGICO B2": {
+            "0": {
+                "Puntos": {
+                    "BALZAY-CTB2-SUB-023": {
+                        "status": "up",
+                        "referencia": "FRENTE A GRADAS SUB",
+                        "coordenadas": {
+                            "lat": -2.8923671229322023,
+                            "lon": -79.03558326150984,
+                            "alt": 3
+                        }
+                    },
+                    "BALZAY-CTB2-SUB-025": {
+                        "status": "up",
+                        "referencia": "LAB BIOENERGIA",
+                        "coordenadas": {
+                            "lat": -2.8924461134834907,
+                            "lon": -79.03557248473612,
+                            "alt": 3
+                        }
+                    },
+                    "BALZAY-CTB2-SUB-024": {
+                        "status": "up",
+                        "referencia": "JUNTO A LAB ISOTOPOS",
+                        "coordenadas": {
+                            "lat": -2.892432184170639,
+                            "lon": -79.035626107354,
+                            "alt": 3
+                        }
+                    },
+                    "BALZAY-CTB2-SUB-026": {
+                        "status": "up",
+                        "referencia": "SALON FINAL PASILLO",
+                        "coordenadas": {
+                            "lat": -2.8925208320490134,
+                            "lon": -79.03562005452343,
+                            "alt": 3
+                        }
+                    }
+                }
+            },
+            "1": {
+                "Puntos": {
+                    "BALZAY-CTB2-PB-027": {
+                        "status": "up",
+                        "referencia": "FRENTE A GRADAS PB",
+                        "coordenadas": {
+                            "lat": -2.892377741777619,
+                            "lon": -79.03558382906715,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-CTB2-PB-029": {
+                        "status": "up",
+                        "referencia": "C2 103",
+                        "coordenadas": {
+                            "lat": -2.892441253872453,
+                            "lon": -79.03556173262618,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-CTB2-PB-28": {
+                        "status": "up",
+                        "referencia": "C2 104",
+                        "coordenadas": {
+                            "lat": -2.892436759518479,
+                            "lon": -79.03563463451123,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-CTB2-PB-030": {
+                        "status": "up",
+                        "referencia": "C2 108",
+                        "coordenadas": {
+                            "lat": -2.8925047248733033,
+                            "lon": -79.03564956935628,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-CTB2-PB-031": {
+                        "status": "up",
+                        "referencia": "C2 107",
+                        "coordenadas": {
+                            "lat": -2.892520708238823,
+                            "lon": -79.03558376246075,
+                            "alt": 6
+                        }
+                    }
+                }
+            },
+            "2": {
+                "Puntos": {
+                    "BALZAY-CTB2-PA-032": {
+                        "status": "up",
+                        "referencia": "FRENTE A LAS GRADAS PA",
+                        "coordenadas": {
+                            "lat": -2.892378981174171,
+                            "lon": -79.03558265928929,
+                            "alt": 9
+                        }
+                    },
+                    "BALZAY-CTB2-PA-033": {
+                        "status": "up",
+                        "referencia": "C2 201",
+                        "coordenadas": {
+                            "lat": -2.8924260964190074,
+                            "lon": -79.03555809684676,
+                            "alt": 9
+                        }
+                    },
+                    "BALZAY-CTB2-PA-034": {
+                        "status": "up",
+                        "referencia": "C2 204",
+                        "coordenadas": {
+                            "lat": -2.8924292674348617,
+                            "lon": -79.03562849675924,
+                            "alt": 9
+                        }
+                    },
+                    "BALZAY-CTB2-PA-035": {
+                        "status": "up",
+                        "referencia": "C2 205",
+                        "coordenadas": {
+                            "lat": -2.89247256009067,
+                            "lon": -79.03556684537516,
+                            "alt": 9
+                        }
+                    },
+                    "BALZAY-CTB2-PA-037": {
+                        "status": "up",
+                        "referencia": "C2 209",
+                        "coordenadas": {
+                            "lat": -2.8925063828090654,
+                            "lon": -79.03558085307439,
+                            "alt": 9
+                        }
+                    },
+                    "BALZAY-CTB2-PA-036": {
+                        "status": "up",
+                        "referencia": "C2 208",
+                        "coordenadas": {
+                            "lat": -2.892491085094417,
+                            "lon": -79.0356383434039,
+                            "alt": 9
+                        }
+                    }
+                }
+            }
+        },
+        "CENTRO TECNOLOGICO B1": {
+            "0": {
+                "Puntos": {
+                    "BALZAY-CTB1-SUB-001": {
+                        "status": "up",
+                        "referencia": "FRENTE A LAS GRADAS SUB",
+                        "coordenadas": {
+                            "lat": -2.892403429344852,
+                            "lon": -79.03540198541651,
+                            "alt": 3
+                        }
+                    },
+                    "BALZAY-CTB1-SUB-003": {
+                        "status": "up",
+                        "referencia": "LABORATORIO 2",
+                        "coordenadas": {
+                            "lat": -2.8924593079950394,
+                            "lon": -79.0354370793608,
+                            "alt": 3
+                        }
+                    },
+                    "BALZAY-CTB1-SUB-002": {
+                        "status": "up",
+                        "referencia": "OFICINA 2",
+                        "coordenadas": {
+                            "lat": -2.8924698371248145,
+                            "lon": -79.03539313168869,
+                            "alt": 3
+                        }
+                    },
+                    "BALZAY-CTB1-SUB-004": {
+                        "status": "up",
+                        "referencia": "PASILLO LABORATORIOS",
+                        "coordenadas": {
+                            "lat": -2.892505626892117,
+                            "lon": -79.03542491147482,
+                            "alt": 3
+                        }
+                    },
+                    "BALZAY-CTB1-SUB-005": {
+                        "status": "up",
+                        "referencia": "ZONA FINAL DEL PASILLO",
+                        "coordenadas": {
+                            "lat": -2.892568144705634,
+                            "lon": -79.03543571230158,
+                            "alt": 3
+                        }
+                    }
+                }
+            },
+            "1": {
+                "Puntos": {
+                    "BALZAY-CTB1-PB-006": {
+                        "status": "up",
+                        "referencia": "ESQUINA IZQUIERDA DETRAS DE LAS GRADAS",
+                        "coordenadas": {
+                            "lat": -2.8923511332499467,
+                            "lon": -79.03543978382402,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-CTB1-PB-007": {
+                        "status": "up",
+                        "referencia": "FRENTE A LAS GRADAS PB",
+                        "coordenadas": {
+                            "lat": -2.8924051580196237,
+                            "lon": -79.03540129485283,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-CTB1-PB-014": {
+                        "status": "up",
+                        "referencia": "OFICINA 7",
+                        "coordenadas": {
+                            "lat": -2.892423195429776,
+                            "lon": -79.03543846926453,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-CTB1-PB-008": {
+                        "status": "up",
+                        "referencia": "OFICINA 3",
+                        "coordenadas": {
+                            "lat": -2.8924706263695703,
+                            "lon": -79.0354451855532,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-CTB1-PB-010": {
+                        "status": "up",
+                        "referencia": "OFICINA 2",
+                        "coordenadas": {
+                            "lat": -2.8924958344521006,
+                            "lon": -79.03538663716219,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-CTB1-PB-009": {
+                        "status": "up",
+                        "referencia": "OFICINA 6",
+                        "coordenadas": {
+                            "lat": -2.892451117076649,
+                            "lon": -79.03537924103802,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-CTB1-PB-011": {
+                        "status": "up",
+                        "referencia": "LAB BIOLOGIA MOLECULAR",
+                        "coordenadas": {
+                            "lat": -2.89253297914927,
+                            "lon": -79.03546025296514,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-CTB1-PB-012": {
+                        "status": "up",
+                        "referencia": "SALON CENTRAL FINAL PASILLO",
+                        "coordenadas": {
+                            "lat": -2.8925345694324216,
+                            "lon": -79.03542761581173,
+                            "alt": 6
+                        }
+                    },
+                    "BALZAY-CTB1-PB-013": {
+                        "status": "up",
+                        "referencia": "GRUPO INVESTIGACION",
+                        "coordenadas": {
+                            "lat": -2.892537811427095,
+                            "lon": -79.03539797471757,
+                            "alt": 6
+                        }
+                    }
+                }
+            },
+            "2": {
+                "Puntos": {
+                    "BALZAY-CTB1-PA-021": {
+                        "status": "up",
+                        "referencia": "FITOQUIMICA",
+                        "coordenadas": {
+                            "lat": -2.8925502559348972,
+                            "lon": -79.03547500007112,
+                            "alt": 9
+                        }
+                    },
+                    "BALZAY-CTB1-PA-019": {
+                        "status": "up",
+                        "referencia": "OFICINA 9",
+                        "coordenadas": {
+                            "lat": -2.8924964610009067,
+                            "lon": -79.0354029007549,
+                            "alt": 9
+                        }
+                    },
+                    "BALZAY-CTB1-PA-020": {
+                        "status": "up",
+                        "referencia": "LAB DE ALIMENTOS",
+                        "coordenadas": {
+                            "lat": -2.892481240540385,
+                            "lon": -79.03546864711099,
+                            "alt": 9
+                        }
+                    },
+                    "BALZAY-CTB1-PA-018": {
+                        "status": "up",
+                        "referencia": "MICROALGAS",
+                        "coordenadas": {
+                            "lat": -2.89244193621932,
+                            "lon": -79.03537418040105,
+                            "alt": 9
+                        }
+                    },
+                    "BALZAY-CTB1-PA-017": {
+                        "status": "up",
+                        "referencia": "AREA DEGUSTACION",
+                        "coordenadas": {
+                            "lat": -2.892431357680014,
+                            "lon": -79.03546088772833,
+                            "alt": 9
+                        }
+                    },
+                    "BALZAY-CTB1-PA-015": {
+                        "status": "up",
+                        "referencia": "FRENTE A LAS GRADAS PA",
+                        "coordenadas": {
+                            "lat": -2.8924042849189755,
+                            "lon": -79.03541142463905,
+                            "alt": 9
+                        }
+                    },
+                    "BALZAY-CTB1-PA-016": {
+                        "status": "up",
+                        "referencia": "ESQUINA IZQUIERDA DETRAS DE GRADAS PA",
+                        "coordenadas": {
+                            "lat": -2.8923471549279074,
+                            "lon": -79.03544656632884,
+                            "alt": 9
+                        }
+                    }
+                }
+            }
+        },
+        "CESEMIN VLIR": {
+            "0": {
+                "Puntos": {
+                    "BALZAY-CESEMIN-PB-076": {
+                        "status": "up",
+                        "referencia": "AL FONDO DE LA ENTRADA DEL CESEMIN",
+                        "coordenadas": {
+                            "lat": -2.8919178314534104,
+                            "lon": -79.03608824068009,
+                            "alt": 3
+                        }
+                    },
+                    "BALZAY-CESEMIN-PB-075": {
+                        "status": "up",
+                        "referencia": "OFICINAS AL FONDO",
+                        "coordenadas": {
+                            "lat": -2.892044971910676,
+                            "lon": -79.03607507187367,
+                            "alt": 3
+                        }
+                    },
+                    "BALZAY-VLIR-PB-073": {
+                        "status": "up",
+                        "referencia": "SALA DE LA ENTRADA IZQUIERDA DEL CESEMIN \"PROYECTO APROVECHAMIENTO DE MINERALES\"",
+                        "coordenadas": {
+                            "lat": -2.8920587829204285,
+                            "lon": -79.03602626087928,
+                            "alt": 3
+                        }
+                    },
+                    "BALZAY-VLIR-PB-074": {
+                        "status": "up",
+                        "referencia": "B1 009 AREA CERAMICA",
+                        "coordenadas": {
+                            "lat": -2.891937987767191,
+                            "lon": -79.03599789923263,
+                            "alt": 3
+                        }
+                    }
+                }
+            }
+        },
+        "LAB MICRORED": {
+            "0": {
+                "Puntos": {
+                    "BALZAY-MICRO-PB-081": {
+                        "status": "up",
+                        "referencia": "AP DE PLANTA BAJA",
+                        "coordenadas": {
+                            "lat": -2.8920135893626604,
+                            "lon": -79.03843977037305,
+                            "alt": 3
+                        }
+                    }
+                }
+            },
+            "1": {
+                "Puntos": {
+                    "BALZAY-MICRO-PB-082": {
+                        "status": "up",
+                        "referencia": "AP PLANTA ALTA",
+                        "coordenadas": {
+                            "lat": -2.892003168386723,
+                            "lon": -79.03844989115063,
+                            "alt": 6
+                        }
+                    }
+                }
+            }
+        },
+        "EXTERNO": {
+            "3": {
+                "Puntos": {
+                    "AP 575 (NI 1)": {
+                        "status": "down",
+                        "referencia": "Exterior de MICRORED",
+                        "coordenadas": {
+                            "lat": -2.8918524752606403,
+                            "lon": -79.03833853473593,
+                            "alt": 12
+                        }
+                    },
+                    "AP 575 (NI 2)": {
+                        "status": "down",
+                        "referencia": "Esquina superior izquierda de BLOQUE C auditorios",
+                        "coordenadas": {
+                            "lat": -2.891839775934324,
+                            "lon": -79.03778018602085,
+                            "alt": 12
+                        }
+                    }
+                }
+            }
+        },
+        "CEA": {
+            "0": {
+                "Puntos": {
+                    "BALZAY-CEA-PB-080": {
+                        "status": "up",
+                        "referencia": "LAB ECOLOGIA ACUATICA B.3 001",
+                        "coordenadas": {
+                            "lat": -2.892377979356299,
+                            "lon": -79.036107656987,
+                            "alt": 3
+                        }
+                    },
+                    "BALZAY-CEA-PB-077": {
+                        "status": "up",
+                        "referencia": "Dentro del CEA parte derecha",
+                        "coordenadas": {
+                            "lat": -2.892242526926659,
+                            "lon": -79.03611443075738,
+                            "alt": 3
+                        }
+                    },
+                    "BALZAY-CEA-PB-079": {
+                        "status": "up",
+                        "referencia": "Entrada del CEA",
+                        "coordenadas": {
+                            "lat": -2.89222272228663,
+                            "lon": -79.03624802696623,
+                            "alt": 3
+                        }
+                    },
+                    "BALZAY-CEA-PB-078": {
+                        "status": "up",
+                        "referencia": "Dentro del CEA parte de oficinas a la izquierda",
+                        "coordenadas": {
+                            "lat": -2.892206212722109,
+                            "lon": -79.03631658977005,
+                            "alt": 3
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
