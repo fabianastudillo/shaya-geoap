@@ -5,6 +5,7 @@ FastAPI + PostGIS service to store Wi‑Fi access points and query nearest neigh
 ## Features
 - Ingests hierarchical `data.json` into PostGIS as `POINTZ` geography with upsert protection on `ap_code`.
 - Nearest AP endpoint ordered by distance (meters) with optional limit and max distance filters.
+- Location lookup endpoint to retrieve exact coordinates, altitude, and metadata by AP code.
 - Dockerized stack with PostGIS, automatic schema bootstrap, and one-off data loader.
 
 ## Stack
@@ -42,6 +43,12 @@ Check health:
 
 ```bash
 curl http://localhost:8000/health
+```
+
+Query location by AP code:
+
+```bash
+curl "http://localhost:8000/aps/BALZAY-AU1-PB-155/location"
 ```
 
 Query nearest APs (example):
@@ -84,3 +91,8 @@ pytest
 ## Notes
 - Access point uniqueness is enforced by `ap_code`.
 - Geography is stored as `POINTZ` (lon/lat/alt, SRID 4326) and distance uses meters via PostGIS.
+
+## API Endpoints
+- `GET /health` — service health check.
+- `GET /aps/{ap_code}/location` — retrieve AP location, status, building, floor, altitude by code.
+- `GET /aps/{ap_code}/nearest?limit=N&max_distance_m=M` — find nearest neighbors ordered by distance; returns full AP metadata with distance in meters.
