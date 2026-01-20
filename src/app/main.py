@@ -3,7 +3,7 @@ from fastapi import Depends, FastAPI, HTTPException, Query
 from sqlalchemy.ext.asyncio import AsyncSession
 
 from app.db import get_session
-from app.schemas import AccessPointNearest
+from app.schemas import AccessPointDetail, AccessPointNearest
 from app.service import AccessPointService
 
 app = FastAPI(title="GeoAP", version="0.1.0")
@@ -28,3 +28,15 @@ async def get_nearest_aps(
     if not results:
         raise HTTPException(status_code=404, detail="Access point not found or no neighbors")
     return list(results)
+
+
+@app.get("/aps/{ap_code}/location", response_model=AccessPointDetail)
+async def get_ap_location(
+    ap_code: str,
+    session: AsyncSession = Depends(get_session),
+) -> AccessPointDetail:
+    service = AccessPointService(session)
+    ap = await service.location(ap_code)
+    if not ap:
+        raise HTTPException(status_code=404, detail="Access point not found")
+    return ap

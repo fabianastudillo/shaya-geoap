@@ -35,3 +35,23 @@ class AccessPointNearest(AccessPointBase):
             }
         }
     }
+
+
+class AccessPointDetail(AccessPointBase):
+    """Full access point location payload."""
+
+    model_config = {
+        "json_schema_extra": {
+            "example": {
+                "ap_code": "BALZAY-AU1-PB-155",
+                "status": "up",
+                "reference": "ENTRADA AL EDIFICIO",
+                "campus": "Balzay",
+                "building": "Aulario1",
+                "floor": "0",
+                "altitude_m": 3,
+                "latitude": -2.89175445,
+                "longitude": -79.03696597,
+            }
+        }
+    }

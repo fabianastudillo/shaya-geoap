@@ -59,3 +59,23 @@ class AccessPointRepository:
         result = await session.execute(stmt)
         rows = result.mappings().all()
         return [schemas.AccessPointNearest(**row) for row in rows]
+
+    @staticmethod
+    async def get_location(session: AsyncSession, ap_code: str) -> schemas.AccessPointDetail | None:
+        location_geom = cast(AccessPoint.location, Geometry(geometry_type="POINTZ", srid=4326))
+
+        stmt = select(
+            AccessPoint.ap_code,
+            AccessPoint.status,
+            AccessPoint.reference,
+            AccessPoint.campus,
+            AccessPoint.building,
+            AccessPoint.floor,
+            AccessPoint.altitude_m,
+            func.ST_Y(location_geom).label("latitude"),
+            func.ST_X(location_geom).label("longitude"),
+        ).where(AccessPoint.ap_code == ap_code)
+
+        result = await session.execute(stmt)
+        row = result.mappings().first()
+        return schemas.AccessPointDetail(**row) if row else None
