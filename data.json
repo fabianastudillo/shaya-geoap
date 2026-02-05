@@ -573,8 +573,8 @@
                         "status": "up",
                         "referencia": "AULA C101 AUDITORIO1",
                         "coordenadas": {
-                            "lat": -2.8911887552591358,
-                            "lon": -44.21091351087016,
+                            "lat": -2.891650455350418,
+                            "lon": -79.03785727249512,
                             "alt": 9
                         }
                     },
@@ -582,8 +582,8 @@
                         "status": "up",
                         "referencia": "AULA C102 AUDITORIO2",
                         "coordenadas": {
-                            "lat": -2.8911644127341516,
-                            "lon": -51.1074210713256,
+                            "lat": -2.891565744850122,
+                            "lon": -79.037838725734,
                             "alt": 9
                         }
                     },
@@ -591,8 +591,8 @@
                         "status": "up",
                         "referencia": "PASILLO BLOQUE C",
                         "coordenadas": {
-                            "lat": -2.891173185234786,
-                            "lon": -61.10824922765724,
+                            "lat": -2.8914838912933423,
+                            "lon": -79.037815214606,
                             "alt": 9
                         }
                     },
@@ -600,8 +600,8 @@
                         "status": "up",
                         "referencia": "PASILLO PA",
                         "coordenadas": {
-                            "lat": -2.8915086512989667,
-                            "lon": -106.21989964935612,
+                            "lat": -2.8913712370408016,
+                            "lon": -79.03771857893258,
                             "alt": 9
                         }
                     },
@@ -609,8 +609,8 @@
                         "status": "up",
                         "referencia": "GRADAS DE ARRIBA BLOQUE C",
                         "coordenadas": {
-                            "lat": -2.891499818152434,
-                            "lon": -127.56967280161282,
+                            "lat": -2.891169628104543,
+                            "lon": -79.0376651694104,
                             "alt": 9
                         }
                     },
@@ -618,8 +618,8 @@
                         "status": "up",
                         "referencia": "AULA C202",
                         "coordenadas": {
-                            "lat": -2.8911757025409357,
-                            "lon": -80.44872290300421,
+                            "lat": -2.891309787224111,
+                            "lon": -79.03776713431648,
                             "alt": 9
                         }
                     },
@@ -627,8 +627,8 @@
                         "status": "up",
                         "referencia": "AULA CERCA DEL LAB ING INDUSTRIAL",
                         "coordenadas": {
-                            "lat": -2.8911939059514604,
-                            "lon": -90.91832313221995,
+                            "lat": -2.891228670867329,
+                            "lon": -79.03774319216203,
                             "alt": 9
                         }
                     },
@@ -636,8 +636,8 @@
                         "status": "up",
                         "referencia": "LAB ING INDUSTRIAL",
                         "coordenadas": {
-                            "lat": -2.8911967111026335,
-                            "lon": -100.19362464832989,
+                            "lat": -2.8911490289105446,
+                            "lon": -79.03771838795471,
                             "alt": 9
                         }
                     }
