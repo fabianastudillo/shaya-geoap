@@ -10,7 +10,7 @@ class Settings(BaseSettings):
     """Typed application configuration loaded from environment."""
 
     database_url: str = Field(..., alias="DATABASE_URL")
-    default_nearest_limit: int = Field(default=20, alias="DEFAULT_NEAREST_LIMIT", ge=1)
+    default_nearest_limit: int = Field(default=100, alias="DEFAULT_NEAREST_LIMIT", ge=1) #Cambio de 20 a 100 en default para poder llamar a más AP, 20 es muy poco
     default_max_distance_m: Optional[float] = Field(
         default=None, alias="DEFAULT_MAX_DISTANCE_M", ge=0
     )
